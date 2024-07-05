@@ -1,0 +1,12 @@
+{
+  "name": "landing-page-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "build": "echo 'No build necessary'"
+  },
+  "keywords": [],
+  "author": ""
+}
